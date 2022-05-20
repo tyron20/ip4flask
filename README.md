@@ -21,9 +21,9 @@ Contributors
 
 Setup/Installation Requirements
 
-    Clone or download the project from my repo 
+    Clone or download the project from my repo https://github.com/tyron20/ip4flask.git
     Open with pycharm or your prefered IDE
-    Or you can You can view it using this link 
+
 
 Technologies Used
 
